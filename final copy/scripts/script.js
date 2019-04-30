@@ -22,12 +22,17 @@ $(document).ready(function() {
 
 	$("#po").click(function() {
 		$("#lightbox").show();
+		$('#po').hide();
+		$('#mat').hide();
 	});
 	
 	
 	$("#overlay").click(function() {
 		$("#lightbox").hide();
+		$('#po').show();
+		$('#mat').show();
 	});
+
 
 	$('#c1, #c2').click(function() {
 
