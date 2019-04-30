@@ -164,14 +164,6 @@ body {
 	left: 0px;
 }
 
-#close {
-	color: black;
-	font: 36px/100% arial, sans-serif;
-  	position: absolute;
-	text-decoration: none;
-	text-shadow: 0 1px 0 #fff;
-	z-index: 3;
-}
 
 #lightbox {
 	display: flex;
