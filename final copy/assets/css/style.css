@@ -150,6 +150,10 @@ body {
 	
 }
 
+#li {
+	padding: 15px;
+}
+
 #overlay {
 	background: transparent;
 	position: absolute;
